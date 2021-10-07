@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "berita" : [
     {
         
@@ -107,20 +106,3 @@
 
 
  
-=======
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
-}
->>>>>>> e9487e6026e3cf91bf2e5be13e5dd2b930f5b524
